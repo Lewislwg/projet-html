@@ -26,7 +26,7 @@ h1,h2,h3,p,ul{ /* contexte de balises ayant les mêmes props */
     --theme-text-color:#fff;
     --theme-link-color: rgb(17, 16, 5);
     --theme-header-bg:rgba(0, 150, 136, 1.0);
-    --theme-btn-primary: #096be1;
+    --theme-btn-primary: hwb(213 4% 12%);
     --theme-btn-secondary: rgb(222, 161, 236);
     --theme-btn-default: #ccc;
     
